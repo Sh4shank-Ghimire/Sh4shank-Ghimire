@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Shashank Ghimire! 👋
+I'm a computer enthusiast and student passionate about technology and coding. 
+I specialize in Java, HTML, CSS, JavaScript, and Spring. Welcome to my GitHub profile!
 
-<!--
-**Sh4shank-Ghimire/Sh4shank-Ghimire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🌱 Currently learning and exploring new technologies.
+💻 I'm into coding, software development, and solving interesting problems.
+🎓 Studying Computer Science with a focus on modern programming practices and technologies.
+🛠️ Skills: Java, HTML, CSS, JavaScript, Spring
+🔧 Technologies & Tools
+Languages: Java, JavaScript, HTML, CSS
+Frameworks & Libraries: Spring
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
